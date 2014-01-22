@@ -5,10 +5,10 @@
   "homepage": "http://mjolnic.github.io/bootstrap-colorpicker/",
   "repository": {
     "type": "git",
-    "url": "git@github.com:mjolnic/bootstrap-colorpicker.git"
+    "url": "git@github.com:scmart/bootstrap-colorpicker.git"
   },
   "bugs": {
-    "url" : "https://github.com/mjolnic/bootstrap-colorpicker/issues"
+    "url" : "https://github.com/scmart/bootstrap-colorpicker/issues"
   },
   "keywords": [
     "bootstrap",
