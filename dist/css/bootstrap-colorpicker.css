@@ -165,6 +165,18 @@
   cursor: pointer;
 }
 
+.colorpicker-element .input-group-addon:last-child {
+  border-left: 0;
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+}
+
+.colorpicker-element .input-group .form-control:first-child {
+  border-right: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
 .colorpicker.colorpicker-inline {
   position: relative;
   display: inline-block;
